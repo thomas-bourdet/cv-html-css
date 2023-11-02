@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: lightgray;
+}
+
+header{
+    text-align: center;
+}
+
+.box {
+    background-color: #567895;
+  }
+  
+  h2 {
+    background-image: linear-gradient(to right, #198000, #00a30e);
+    color: white;
+  }
+  
+  .Information{
+        text-align: center;    
+  }
+  
+  div {
+    width: 300px;
+    border: 3px solid rgb(255, 255, 255);
+    padding: 50px;
+    text-align: center;
+    
+  }
